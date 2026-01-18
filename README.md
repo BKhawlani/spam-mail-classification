@@ -51,7 +51,23 @@ Each email undergoes text preprocessing before being used for model training.
 - Confusion Matrix
 
 ---
+## Results
 
+The model achieves high accuracy in distinguishing spam from legitimate emails, demonstrating the effectiveness of NLP-based classification techniques
+
+---
+## Future Improvements
+
+Deploy as a web application
+Real-time email classification API
+--- 
+
+## Author
+
+Bashar Alkhawlani
+Computer Engineering Student | AI & Machine Learning Enthusiast
+
+---
 ## How to Run
 ```bash
 git clone https://github.com/BKhawlani/spam-mail-classification.git
